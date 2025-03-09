@@ -21,8 +21,8 @@ This project collects temperature and humidity data from an MQTT broker, saves i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/meteor-mqtt-weather-station
-   cd meteor-mqtt-weather-station
+   git clone https://github.com/yourusername/meteor
+   cd meteor
    ```
 
 2. Install the required dependencies:
